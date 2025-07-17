@@ -10,4 +10,4 @@ I'm making one. It's called [Stacks](https://stacks.cross.stream), https://githu
 
 Kinda like sqlite, but for event streams
 
-![crossing the streams](https://github.com/user-attachments/assets/2bcaee6a-eb86-4da6-b2d3-0cac8a034811)
+[![crossing the streams](https://github.com/user-attachments/assets/2bcaee6a-eb86-4da6-b2d3-0cac8a034811)](https://github.com/cablehead/xs)
