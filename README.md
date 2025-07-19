@@ -1,4 +1,4 @@
-👋 Hi. I'm [@ndyg](https://ndyg.ca).
+👋 Hi, I'm [@ndyg](https://ndyg.ca).
 
 ---
 
