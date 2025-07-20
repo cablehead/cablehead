@@ -19,4 +19,4 @@ I make a few other things, like a clipboard manager, called
 
 [![image](https://github.com/user-attachments/assets/f69cf280-adb3-4568-b6ae-3b0eb5c99092)](https://stacks.cross.stream)
 
-🤫 don't tell anyone, but Stacks is actually a prototype UI for cross.stream
+🤫 don't tell anyone, but Stacks is actually a prototype UI for [cross.stream](https://www.cross.stream)
