@@ -8,9 +8,9 @@ I make a local-first, [event sourcing](https://martinfowler.com/eaaDev/EventSour
 
 ---
 
-I think a lot about, what would it look like to compose systems and applications exclusively out of small tools? That's led to [`http-nu`](https://github.com/cablehead/http-nu) a surprisingly performant, Nushell-scriptable HTTP server that fits in your back pocket.
+I think a lot about, what would it look like to compose systems and applications exclusively out of small tools? That's led to [`http-nu`](https://github.com/cablehead/http-nu) a surprisingly performant, [Nushell](https://www.nushell.sh)-scriptable HTTP server that fits in your back pocket.
 
-[<img width="912" height="520" alt="image" src="https://github.com/user-attachments/assets/8f0e47fd-fa35-49da-ae0b-44a0b7a44e6d" />](https://github.com/cablehead/http-nu)
+[<img height="300" alt="image" src="https://github.com/user-attachments/assets/8f0e47fd-fa35-49da-ae0b-44a0b7a44e6d" />](https://github.com/cablehead/http-nu)
 
 ---
 
